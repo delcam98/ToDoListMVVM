@@ -21,5 +21,5 @@ In this component we defined the way to track the state of the todo arrays objec
 ### Add a new todo
 Using the Add bottom in the toolbar of the application you can add a new ToDo.
 
-![Screenshot](./ToDoListMVVM/Documentation/AddTodoView.png)
+![Screenshot](./ToDoListMVVM./ToDoListMVVM/Documentation/AddTodoView.png)
 
