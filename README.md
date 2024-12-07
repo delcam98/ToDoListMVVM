@@ -55,7 +55,7 @@ If you Swipe to the left a todo item to enable the delete button
 Click the Edit button image in the toolbar or swipe left any todo item:
 ![Screenshot](./ToDoListMVVM/ToDoListMVVM/Documentation/TaskNotCompleted.png)
 
-Enter the new todo's title and click Save:
+Click the delete red button to remove the todo item from the list:
 ![Screenshot](./ToDoListMVVM/ToDoListMVVM/Documentation/SwipeLeftToDelete.png)
 
 ### Edit to enable bulk delete
@@ -68,7 +68,7 @@ Click the Edit button image in the toolbar or swipe left any todo item:
 Click the red symbol in the todo item:
 ![Screenshot](./ToDoListMVVM/ToDoListMVVM/Documentation/ClickEditButton.png)
 
-Enter the new todo's title and click Save:
+Click the delete red button to remove the todo item from the list:
 ![Screenshot](./ToDoListMVVM/ToDoListMVVM/Documentation/SwipeLeftToDelete.png)
 
 
