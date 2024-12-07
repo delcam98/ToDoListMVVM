@@ -46,7 +46,31 @@ Click the Pencil Blue image at the end of the list item:
 ![Screenshot](./ToDoListMVVM/ToDoListMVVM/Documentation/TaskNotCompleted.png)
 
 Enter the new todo's title and click Save:
-![Screenshot](./ToDoListMVVM/ToDoListMVVM/Documentation/editView.png)
+![Screenshot](./ToDoListMVVM/ToDoListMVVM/Documentation/editview.png)
+
+### Swipe to Delete a Todo
+If you Swipe to the left a todo item to enable the delete button
+
+
+Click the Edit button image in the toolbar or swipe left any todo item:
+![Screenshot](./ToDoListMVVM/ToDoListMVVM/Documentation/TaskNotCompleted.png)
+
+Enter the new todo's title and click Save:
+![Screenshot](./ToDoListMVVM/ToDoListMVVM/Documentation/SwipeLeftToDelete.png)
+
+### Edit to enable bulk delete
+If you click Edit button in the toolbar the bulk delete is enabled
+
+
+Click the Edit button image in the toolbar or swipe left any todo item:
+![Screenshot](./ToDoListMVVM/ToDoListMVVM/Documentation/TaskNotCompleted.png)
+
+Click the red symbol in the todo item:
+![Screenshot](./ToDoListMVVM/ToDoListMVVM/Documentation/ClickEditButton.png)
+
+Enter the new todo's title and click Save:
+![Screenshot](./ToDoListMVVM/ToDoListMVVM/Documentation/SwipeLeftToDelete.png)
+
 
 
 
