@@ -21,5 +21,32 @@ In this component we defined the way to track the state of the todo arrays objec
 ### Add a new todo
 Using the Add bottom in the toolbar of the application you can add a new ToDo.
 
+
+Click the Add button:
 ![Screenshot](./ToDoListMVVM/ToDoListMVVM/Documentation/AddTodoView.png)
+
+Enter the todo's title and click Save:
+![Screenshot](./ToDoListMVVM/ToDoListMVVM/Documentation/AddTodoView2.png)
+
+### Mark or Unmark as complete
+Using the square image at the end you can click to mark the todo as completed or remove the completed mark.
+
+
+Click the Square image at the end of the list item:
+![Screenshot](./ToDoListMVVM/ToDoListMVVM/Documentation/TaskNotCompleted.png)
+
+This is an Example of a complete task (if you want to mark as uncomplete, click the square image again to remove the completion)
+![Screenshot](./ToDoListMVVM/ToDoListMVVM/Documentation/TaskCompleted.png)
+
+### Edit an existing todo
+Using the Pencil Blue image at the end you can click to mark the todo as completed or remove the completed mark.
+
+
+Click the Pencil Blue image at the end of the list item:
+![Screenshot](./ToDoListMVVM/ToDoListMVVM/Documentation/TaskNotCompleted.png)
+
+Enter the new todo's title and click Save:
+![Screenshot](./ToDoListMVVM/ToDoListMVVM/Documentation/editView.png)
+
+
 
